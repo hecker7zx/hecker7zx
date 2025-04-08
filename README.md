@@ -19,7 +19,7 @@ Also into creating content, running online communities, and overthinking things 
 
 ## 🌐 Connect with Me
 - Instagram: [@3am._heckerr](https://instagram.com/3am._heckerr)
-- Discord: `hecker7zx`
+- Discord: `hecker7zx_`
 - GitHub: [hecker7zx](https://github.com/hecker7zx)
 
 ---
