@@ -1,4 +1,4 @@
-<h1 align="center">👋 Yo, I'm Hecker7zx</h1>
+<h1 align="center">👋 Yo, I'm Hecker7z</h1>
 <p align="center">✨ Crafts with Code & Caffeine ✨</p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Just a curious mind making things that *look good* and *feel better*.
 
 - 💬 Instagram: [@hecker7_](https://instagram.com/hecker7_)  
 - 💻 GitHub: [@hecker7zx](https://github.com/hecker7zx)  
-- 🧠 Discord: `hecker7zx_`
+- 🧠 Discord: `hecker7z`
 
 ---
 
